@@ -1,2 +1,2 @@
 # main
-CSS,HTML,JS
+CSS,HTML,JS,FIGMA
